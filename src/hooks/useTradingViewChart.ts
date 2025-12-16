@@ -75,7 +75,7 @@ export function useTradingViewChart(
 
     // Candlestick series
     const candleSeries = chart.addCandlestickSeries({
-      upColor: '#4caf50',
+      upColor: '#4cb850ff',
       downColor: '#f44336',
       wickUpColor: '#4caf50',
       wickDownColor: '#f44336',
